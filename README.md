@@ -2,6 +2,7 @@
 
 A standards-compliant Uniswap Token List for the X Layer network, used by wallets (e.g., MetaMask) and dApps to discover tokens and logos.
 
+
 - Token list file: `https://raw.githubusercontent.com/okx/xlayer-tokenlist/main/xlayer.tokenlist.json`
 - Schema: Uniswap Token List (validated)
 
