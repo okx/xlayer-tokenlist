@@ -1,0 +1,49 @@
+{
+  "name": "X Layer Default Token List",
+  "timestamp": "2025-11-27T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["xlayer", "okb", "mainnet"],
+  "tokens": [
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "decimals": 18,
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "logoURI": "https://static.oklink.com/cdn/web3/currency/token/small/196-0xe538905cf8410324e03a5a23c1c177a474d59b2b-107?v=1750421945476"
+    },
+    {
+      "chainId": 196,
+      "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "chainId": 196,
+      "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "decimals": 6,
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "logoURI": "https://static.oklink.com/cdn/web3/currency/token/large/196-0x779ded0c9e1022225f8e0630b35a9b54be713736-107/type=default_90_0?v=1758597811461"
+    },
+    {
+      "chainId": 196,
+      "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://static.oklink.com/cdn/web3/currency/token/large/637-0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b-107/type=default_90_0?v=1756203256814"
+    },
+    {
+      "chainId": 196,
+      "address": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8",
+      "decimals": 6,
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "logoURI": "https://static.oklink.com/cdn/web3/currency/token/large/196-0x4ae46a509f6b1d9056937ba4500cb143933d2dc8-107/type=default_90_0?v=1759823460266"
+    }
+  ]
+}
+
