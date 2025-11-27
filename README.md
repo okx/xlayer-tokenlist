@@ -2,7 +2,7 @@
 
 A standards-compliant Uniswap Token List for the X Layer network, used by wallets (e.g., MetaMask) and dApps to discover tokens and logos.
 
-- Token list file: `xlayer.tokenlist.json`
+- Token list file: `https://raw.githubusercontent.com/okx/xlayer-tokenlist/refs/heads/dev/xlayer.tokenlist.json`
 - Schema: Uniswap Token List (validated)
 
 ## Chains
@@ -110,7 +110,7 @@ Community contributions are welcome! To add new tokens or correct existing infor
 
 这是一个符合标准的 Uniswap 代币列表，用于 X Layer 网络，供钱包（例如 MetaMask）和 dApps 发现代币和 logo。
 
-- 代币列表文件：`xlayer.tokenlist.json`
+- 代币列表文件：`https://raw.githubusercontent.com/okx/xlayer-tokenlist/refs/heads/dev/xlayer.tokenlist.json`
 - 架构：Uniswap Token List（已验证）
 
 ## 链网络
