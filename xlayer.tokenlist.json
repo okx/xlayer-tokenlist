@@ -14,14 +14,6 @@
     },
     {
       "chainId": 196,
-      "address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
-      "decimals": 18,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
-    },
-    {
-      "chainId": 196,
       "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
       "decimals": 6,
       "name": "USD₮0",
