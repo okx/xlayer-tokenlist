@@ -86,9 +86,9 @@
     },
     {
       "chainId": 196,
-      "address": "0xC628509Ef58695230DCAe204F8D8342e04E13A1e",
+      "address": "0xBd12a9E4f837c2b18CD75E4f12EE7910E7b7Ca80",
       "decimals": 18,
-      "name": "H Staking",
+      "name": "H Staking(Membership Special)",
       "symbol": "HS",
       "logoURI": "https://raw.githubusercontent.com/konodiongdiongda-beep/xlayer-tokenlist/main/logo.png"
     }
