@@ -1,0 +1,24 @@
+{
+    "name": "X Layer Default Token List",
+    "timestamp": "2026-02-05T00:00:00Z",
+    "version": { "major": 1, "minor": 0, "patch": 0 },
+    "keywords": ["xlayer", "okb", "mainnet"],
+    "tokens": [
+      {
+        "chainId": 196,
+        "address": "0xafeab3b85b6a56cf5f02317f0f7a23340eb983d7",
+        "decimals": 18,
+        "name": "OKX Wrapped Staked ETH",
+        "symbol": "xBETH",
+        "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/245/00C72289BD7C4180A0317383462FEC59.png"
+      },
+      {
+        "chainId": 196,
+        "address": "0x14a686103854dab7b8801e31979caa595835b25d",
+        "decimals": 9,
+        "name": "OKX Wrapped Staked SOL",
+        "symbol": "xOKSOL",
+        "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/907/15D5974EF3AF4016B9927F25296CDF4C.png"
+      }
+    ]
+  }
