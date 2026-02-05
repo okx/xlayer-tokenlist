@@ -66,7 +66,7 @@
       "decimals": 18,
       "name": "OKX Wrapped Staked ETH",
       "symbol": "xBETH",
-      "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/907/15D5974EF3AF4016B9927F25296CDF4C.png"
+      "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/245/00C72289BD7C4180A0317383462FEC59.png"
     },
     {
       "chainId": 196,
@@ -74,7 +74,7 @@
       "decimals": 9,
       "name": "OKX Wrapped Staked SOL",
       "symbol": "xOKSOL",
-      "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/671/139EADA617DA435C979DB65494B40D31.png"
+      "logoURI": "https://static.coinall.ltd/cdn/assets/imgs/907/15D5974EF3AF4016B9927F25296CDF4C.png"
     },
     {
       "chainId": 196,
