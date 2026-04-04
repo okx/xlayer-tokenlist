@@ -1,8 +1,16 @@
 {
   "name": "X Layer Default Token List",
   "timestamp": "2025-11-27T00:00:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "keywords": ["xlayer", "okb", "mainnet"],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
+  "keywords": [
+    "xlayer",
+    "okb",
+    "mainnet"
+  ],
   "tokens": [
     {
       "chainId": 196,
@@ -83,7 +91,14 @@
       "name": "OKX Wrapped BTC",
       "symbol": "xBTC",
       "logoURI": "https://okx.com/cdn/web3/currency/token/large/196-0xb7c00000bcdeef966b20b3d884b98e64d2b06b4f-107/type=default_90_0?v=1759829231572"
+    },
+    {
+      "chainId": 196,
+      "address": "0x7f594b3774C2Df7DB474f510697F8e2ab6cB1F32",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
     }
   ]
 }
-
